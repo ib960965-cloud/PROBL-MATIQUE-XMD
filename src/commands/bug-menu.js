@@ -13,7 +13,7 @@ module.exports = {
 │ 🔴 .bulldozer 224xxx
 │ ⚡ .protocol6 224xxx  
 │ 💥 .protocol7 224xxx
-│ 🌀 .guear5-crash 225xxx
+│ 🌀 .guear5-crash 224xxx
 │ 👑 .lord-crash 224xxx
 │ 👁️ .rinnegan 224xxx
 │ ⏳ .obito-delay 224xxx
